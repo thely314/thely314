@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    width="256px"
+    width="320px"
     alt="visitors"
     src="https://count.getloli.com/get/@thely314?theme=booru-jaypee"
   />
